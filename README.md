@@ -40,4 +40,6 @@ Currently expanding my skillset by learning iOS development with Swift & SwiftUI
 
 - Sharing open-source projects and mobile development tools
 
-* I am currently working on creating Flutter plugins. Feel free to share your comments or suggestions — they help me improve and grow as a developer.
+```
+> I am currently working on creating Flutter plugins. Feel free to share your comments or suggestions — they help me improve and grow as a developer.
+```
