@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi, I'm Anandhakrishnan
+### 📱 Mobile App Developer — Flutter | Android | iOS (Learning)
+
+Passionate mobile app developer experienced in building high-quality, performant applications using Flutter and native Android (Kotlin/Java).
+Currently expanding my skillset by learning iOS development with Swift & SwiftUI.
+
+### 🔧 Skills & Interests
+
+Flutter (Dart)
+
+Android Development (Kotlin / Java)
+
+iOS Development (Swift / SwiftUI — learning)
+
+UI/UX Implementation
+
+Clean Architecture & Scalable App Design
+
+### 🚀 What I’m Working On
+
+Building cross-platform apps with modern, intuitive UI
+
+Learning and experimenting with new iOS frameworks
+
+Sharing open-source projects and mobile development tools
