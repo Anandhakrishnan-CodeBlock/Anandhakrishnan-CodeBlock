@@ -22,20 +22,20 @@ Currently expanding my skillset by learning iOS development with Swift & SwiftUI
 
 ### 🔧 Skills & Interests
 
-Flutter (Dart)
+- Flutter (Dart)
 
-Android Development (Kotlin / Java)
+- Android Development (Kotlin / Java)
 
-iOS Development (Swift / SwiftUI — learning)
+- iOS Development (Swift / SwiftUI — learning)
 
-UI/UX Implementation
+- UI/UX Implementation
 
-Clean Architecture & Scalable App Design
+- Clean Architecture & Scalable App Design
 
 ### 🚀 What I’m Working On
 
-Building cross-platform apps with modern, intuitive UI
+- Building cross-platform apps with modern, intuitive UI
 
-Learning and experimenting with new iOS frameworks
+- Learning and experimenting with new iOS frameworks
 
-Sharing open-source projects and mobile development tools
+- Sharing open-source projects and mobile development tools
